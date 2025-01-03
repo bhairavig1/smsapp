@@ -1,0 +1,2 @@
+# smsapp
+repository for StudentManagementSystemApp
