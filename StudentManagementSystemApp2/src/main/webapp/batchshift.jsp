@@ -68,8 +68,8 @@ crossorigin="anonymous">
 					<option value="Offline">Offline</option>
 					 </select>
 					 
-			 		<button class="btn btn-success btn-sm ">select Batch Mode</button> 
-			 		
+<!-- 			 		<button class="btn btn-success btn-sm ">select Batch Mode</button> 
+ -->			 		
 			 	 
 			 	<b>Enter Batch</b>
 			 	
@@ -87,13 +87,13 @@ crossorigin="anonymous">
 		 	 <option value="FDJ-188">FDJ-188</option> 
 				</select> 
 				
-		 	<button class="btn btn-success btn-sm ">select Batch</button> 
-				
+<!-- 		 	<button class="btn btn-success btn-sm ">Select batch</button> 
+ --> 				
 			 	</div> 
 			 	
-			 	<!-- <div  class="d-flex justify-content-center pt-5"> 
-<		 	<button class="btn btn-success btn-sm ">select Batch</button> 
-  			 	</div>  -->
+			 	 <div  class="d-flex justify-content-center pt-5"> 
+		 	<button class="btn btn-success btn-sm ">SUBMIT</button> 
+  			 	</div> 
  			 	</form> 
 			 	</div> 
 			 	</div> 
